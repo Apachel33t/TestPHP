@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7500e918-8ada-4edf-beb4-6e59babcf20e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1hGWfEaQrPRCkQvUNBT4redKxeq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\test.ru" />
+      <recent name="C:\OpenServer\domains\test.ru\Controllers" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7500e918-8ada-4edf-beb4-6e59babcf20e" name="Default Changelist" comment="" />
+      <created>1599638015768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599638015768</updated>
+      <workItem from="1599638017535" duration="1092000" />
+      <workItem from="1599736497066" duration="11000" />
+      <workItem from="1599814236933" duration="596000" />
+      <workItem from="1599985837265" duration="14727000" />
+      <workItem from="1600085064497" duration="9751000" />
+      <workItem from="1600105312253" duration="1221000" />
+      <workItem from="1600115486424" duration="1607000" />
+      <workItem from="1600156506659" duration="12353000" />
+      <workItem from="1600180120038" duration="794000" />
+      <workItem from="1600189585575" duration="3741000" />
+      <workItem from="1600246460640" duration="19010000" />
+      <workItem from="1600340313145" duration="6125000" />
+      <workItem from="1600356488333" duration="3881000" />
+      <workItem from="1600360624019" duration="4066000" />
+      <workItem from="1600424185099" duration="6318000" />
+      <workItem from="1600432560412" duration="593000" />
+      <workItem from="1600442366098" duration="2038000" />
+      <workItem from="1600597849979" duration="7378000" />
+      <workItem from="1600607460769" duration="5803000" />
+      <workItem from="1600627706930" duration="2000" />
+      <workItem from="1600680879979" duration="594000" />
+      <workItem from="1600690195106" duration="6752000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="336" y="366" key="#SQL_Dialects" timestamp="1600082271674">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="336" y="366" key="#SQL_Dialects/0.0.1920.1050@0.0.1920.1050" timestamp="1600082271674" />
+    <state x="552" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600085967596">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1600085967596" />
+    <state x="840" y="293" key="DUMP_DIALOG_DIMENSION_KEY" timestamp="1600697314006">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="840" y="293" key="DUMP_DIALOG_DIMENSION_KEY/0.0.1920.1050@0.0.1920.1050" timestamp="1600697314006" />
+    <state x="940" y="293" key="FileChooserDialogImpl" timestamp="1600697313275">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="940" y="293" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1600697313275" />
+    <state width="959" height="216" key="GridCell.Tab.0.bottom" timestamp="1600697222987">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="959" height="216" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1600697222987" />
+    <state width="959" height="216" key="GridCell.Tab.0.center" timestamp="1600697222987">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="959" height="216" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1600697222987" />
+    <state width="959" height="216" key="GridCell.Tab.0.left" timestamp="1600697222986">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="959" height="216" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1600697222986" />
+    <state width="959" height="216" key="GridCell.Tab.0.right" timestamp="1600697222987">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="959" height="216" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1600697222987" />
+    <state x="1029" y="228" width="423" height="528" key="NewPhpClassDialog" timestamp="1600609180598">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1029" y="228" width="423" height="528" key="NewPhpClassDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1600609180598" />
+    <state x="1176" y="563" key="NewPhpFileDialog" timestamp="1600430175730">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1176" y="563" key="NewPhpFileDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1600430175730" />
+    <state x="794" y="412" width="332" height="245" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1600257490342">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="794" y="412" width="332" height="245" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1050@0.0.1920.1050" timestamp="1600257490342" />
+    <state x="690" y="329" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog" timestamp="1600168571311">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="329" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1600168571311" />
+    <state x="756" y="345" width="408" height="356" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1600259080171">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="756" y="345" width="408" height="356" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1600259080171" />
+    <state x="579" y="245" width="539" height="665" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1600693969683">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="579" y="245" width="539" height="665" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1600693969683" />
+    <state x="767" y="425" key="com.intellij.database.view.ui.DatabasePreviewDialog" timestamp="1600257401100">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="767" y="425" key="com.intellij.database.view.ui.DatabasePreviewDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1600257401100" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1600257332207">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1600257332207" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1600350749819">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1600350749819" />
+  </component>
+</project>
